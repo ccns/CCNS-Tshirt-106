@@ -19,21 +19,27 @@
 </defs>
 <g id="background">
 	<rect fill="#3E3A39" stroke="#FFFFFF" stroke-miterlimit="10" width="595.28" height="420.945"/>
-	<rect y="420.945" fill="#3E3A39" stroke="#FFFFFF" stroke-miterlimit="10" width="595.28" height="420.944"/>
+	<rect x="0.001" y="420.944" fill="#3E3A39" stroke="#FFFFFF" stroke-miterlimit="10" width="595.28" height="420.944"/>
 	<text transform="matrix(1 0 0 1 491.417 408.0337)" fill="#EFEFEF" font-family="'Consolas-Bold'" font-size="21">Frontend</text>
 	<text transform="matrix(1 0 0 1 502.9629 828.0332)" fill="#EFEFEF" font-family="'Consolas-Bold'" font-size="21">Backend</text>
 </g>
-<g id="frontend">
+<g id="frontend-comment">
 	<g>
 		<text transform="matrix(1 0 0 1 22.7383 237.4731)" fill="#EFEFEF" font-family="'Consolas-Bold'" font-size="100">SuperGeek;</text>
 		
 			<text transform="matrix(1 0 0 1 80.9985 176.8574)" fill="#EFEFEF" font-family="'NotoSansCJKjp-Bold-90ms-RKSJ-H'" font-size="28">極度御宅{オタク}</text>
 	</g>
 </g>
-<g id="backend">
-	<g>
+<g id="backend" display="none">
+	<g display="inline">
 		<text transform="matrix(1 0 0 1 60.125 631.4648)" fill="#EFEFEF" font-family="'Consolas-Bold'" font-size="48">/* STFW &amp;&amp; RTFM */</text>
 		<text transform="matrix(1 0 0 1 211.0464 664.4629)" fill="#EFEFEF" font-family="'Consolas-Bold'" font-size="21">Powered by CCNS</text>
+	</g>
+</g>
+<g id="frontend-twoline">
+	<g>
+		<text transform="matrix(1 0 0 1 218.4692 574.8643)"><tspan x="0" y="0" fill="#EFEFEF" font-family="'Consolas-Bold'" font-size="72">STFW</tspan><tspan x="39.586" y="68" fill="#EFEFEF" font-family="'Consolas-Bold'" font-size="72">&amp;&amp;</tspan><tspan x="0" y="136" fill="#EFEFEF" font-family="'Consolas-Bold'" font-size="72">RTFM</tspan></text>
+		<text transform="matrix(1 0 0 1 211.0469 740.7207)" fill="#EFEFEF" font-family="'Consolas-Bold'" font-size="21">Powered by CCNS</text>
 	</g>
 </g>
 </svg>

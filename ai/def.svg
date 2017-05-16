@@ -3,11 +3,11 @@
 		<![CDATA[
 			@font-face {
 				font-family: 'Consolas-Bold';
-				src: url(font/consolab.ttf);
+				src: url(../font/consolab.ttf);
 			}
 			@font-face {
 				font-family: 'NotoSansCJKjp-Bold-90ms-RKSJ-H';
-				src: url(font/NotoSansCJKjp-Bold.otf);
+				src: url(../font/NotoSansCJKjp-Bold.otf);
 			}
 		]]>
 	</style>
