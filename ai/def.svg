@@ -1,0 +1,14 @@
+<defs>
+	<style type="text/css">
+		<![CDATA[
+			@font-face {
+				font-family: 'Consolas-Bold';
+				src: url(font/consolab.ttf);
+			}
+			@font-face {
+				font-family: 'NotoSansCJKjp-Bold-90ms-RKSJ-H';
+				src: url(font/NotoSansCJKjp-Bold.otf);
+			}
+		]]>
+	</style>
+</defs>
